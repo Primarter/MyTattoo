@@ -1,0 +1,3 @@
+/home/primarter/Workplace/Experiments/TattooInsp/build/CMakeFiles/rebuild_cache.dir
+/home/primarter/Workplace/Experiments/TattooInsp/build/CMakeFiles/edit_cache.dir
+/home/primarter/Workplace/Experiments/TattooInsp/build/CMakeFiles/tattdisp.dir
