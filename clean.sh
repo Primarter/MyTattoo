@@ -1,2 +1,2 @@
-rm -rf $1
+rm -rf tattdisp
 rm -rf build

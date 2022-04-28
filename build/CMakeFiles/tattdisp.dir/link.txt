@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/tattdisp.dir/src/main.cpp.o -o ../tattdisp  -lsfml-window -lsfml-audio -lsfml-graphics -lsfml-system 
