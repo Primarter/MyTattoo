@@ -16,6 +16,7 @@ include(GNUInstallDirs)
 ##############################
 set(SRC_FILES
     ${PROJECT_ROOT}/src/main.cpp
+    ${PROJECT_ROOT}/src/utils.cpp
 )
 
 add_executable(tattdisp
@@ -27,4 +28,4 @@ target_include_directories(tattdisp
         ${PROJECT_ROOT}/include/
 )
 
-target_link_libraries(tattdisp sfml-window sfml-audio sfml-graphics sfml-system)
+target_link_libraries(tattdisp sfml-window sfml-audio sfml-graphics sfml-system m)
