@@ -3,6 +3,7 @@
 #include <cmath>
 #include "utils.hpp"
 
+// To have edges, just draw the same thing but black under it, slightly bigger
 struct Polygon
 {
     sf::VertexArray va;
